@@ -14,7 +14,7 @@
         <p>Wybierz standard</p>
         <select name="factor" id="factor">
             <option value="atx">ATX</option>
-            <option value="maicroatx">Micro ATX</option>
+            <option value="microatx">Micro ATX</option>
         </select>
         <p>Wybierz CPU:</p>
         <select name="cpu" id="cpu">
