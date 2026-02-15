@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+15&family=Pixelify+Sans:wght@400..700&display=swap');
+
+body {
+    font-family: "Pixelify Sans", "Jersey 15", sans-serif;
+    text-align: center;
+    background: repeating-linear-gradient(#aaa, #777, #aaa);
+}
+
+h1 {
+    font-family: "Jersey 15", "Pixelify Sans", sans-serif;
+}
+
+#wyniki {
+    background-color: #333;
+    border: #555 3px solid;
+    border-radius: 15px;
+    width: 60vw;
+    margin-left: 20vw;
+    padding: 15px 0;
+}
+
+a {
+    color: #66b;
+    text-decoration: none;
+}
+
+button,
+select {
+    margin: 15px 5px;
+    transition: ease-in-out 0.1s all;
+}
+
+button {
+    font-family: "Jersey 15", sans-serif;
+    font-size: large;
+}
+
+button:hover {
+    transform: scale(1.1);
+}
